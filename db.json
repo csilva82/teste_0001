@@ -1,8 +1,16 @@
 {
-   
+    "dados":[
+        {
             "id": 1,
             "nome": "luiz",
             "idade": 18
-  
- 
+        },
+        {
+            "id": 2,
+            "nome": "luiz",
+            "idade": 18
+        }
+       
+       
+    ]
 }
